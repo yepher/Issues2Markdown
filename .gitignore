@@ -3,6 +3,8 @@
 *.dll
 *.so
 *.dylib
+Issues2Markdown
+db-1.0.json
 
 # Test binary, build with `go test -c`
 *.test
@@ -12,3 +14,4 @@
 
 # Project-local glide cache, RE: https://github.com/Masterminds/glide/issues/736
 .glide/
+output.md
