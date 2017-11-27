@@ -40,3 +40,8 @@ Example Usage:
 The output is rendered to standard out. You can pipe that to a file to save it. Here is another example that outputs the markdown to a file and opens it with your Markdown reader:
 
 `./Issues2Markdown --file ./db-1.0.json |tee output.md; open output.md`
+
+
+## References
+
+* Bitbucket exported [Issue structure](https://confluence.atlassian.com/bitbucket/issue-import-export-data-format-330796872.html?_ga=2.200591850.556121455.1511736098-821495.1504873881) 
