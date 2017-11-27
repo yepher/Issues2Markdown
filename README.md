@@ -4,9 +4,8 @@
 
 ## TODO
 
-[ ] Add ability to select which tickets to output or not output. Like based on priority
-
-[ ] Add ability to go directly to Bitbucket and get the issue list
+- [ ] Add ability to select which tickets to output or not output. Like based on priority
+- [ ] Add ability to go directly to Bitbucket and get the issue list
 
 
 ## Why Do I Need This?
